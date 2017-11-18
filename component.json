@@ -1,14 +1,14 @@
 {
-  "name": "pomelo-protocol",
-  "description": "pomelo-protocol",
+  "name": "dreamix-protocol",
+  "description": "dreamix-protocol",
   "keywords": [
-    "pomelo",
+    "dreamix",
     "protocol"
   ],
-  "version": "0.1.3",
+  "version": "1.0.0",
   "main":"lib/protocol.js",
   "scripts": [
     "lib/protocol.js"
   ],
-  "repo": "https://github.com/NetEase/pomelo-protocol"
+  "repo": "https://github.com/JohnnieFucker/dreamix-protocol"
 }

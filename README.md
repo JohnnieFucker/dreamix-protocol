@@ -1,6 +1,6 @@
-#pomelo-protocol
+#dreamix-protocol
 
-Encode and decode binary protocol for Pomelo framework.
+Fork from pomelo-protocol,Encode and decode binary protocol for Pomelo framework.
 
 More details about Pomelo Protocol, please refer
 [Pomelo Protocol](https://github.com/NetEase/pomelo/wiki/Pomelo-%E5%8D%8F%E8%AE%AE)
