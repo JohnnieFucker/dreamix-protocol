@@ -1,11 +1,22 @@
 {
   "name": "pomelo-protocol",
-  "version": "0.1.6",
+  "version": "1.0.0",
   "private": false,
   "dependencies": {},
-  "devDependencies": {
-    "should": ">=0.0.1",
-    "mocha": ">=0.0.1",
-    "jscoverage": ">=0.0.1"
-  }
+  "description": "Encode and decode binary protocol for dreamix framework.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnnieFucker/dreamix-protocol.git"
+  },
+  "keywords": [
+    "dreamix",
+    "protocol"
+  ],
+  "author": "Shine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnnieFucker/dreamix-protocol/issues"
+  },
+  "homepage": "https://github.com/JohnnieFucker/dreamix-protocol#readme"
 }
